@@ -30,7 +30,7 @@ Easier view of the style of the tag view View to receive and display cells of th
 
   # s.ios.deployment_target = '11.0'
   s.swift_version = '4.2'
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios, "9.0"
   s.source_files = 'TagStyledView/Classes/**/*'
   s.requires_arc = true
   
